@@ -1,5 +1,5 @@
 ---
-title: Authentication with OpenID Connect and Qlik Enterprise SaaS
+title: OpenID Connect configuration in Qlik Cloud Services - Explained
 description: A detailed explanation of the configuration settings for identity providers in Qlik Cloud Services Enterprise SaaS
 categories: Blogs
 type: Blog
@@ -7,7 +7,7 @@ tags: ["Authenticate"]
 products: Qlik Cloud Services Enterprise SaaS
 ---
 
-# Authentication with OpenID Connect and Qlik Enterprise SaaS
+# OpenID Connect configuration in Qlik Cloud Services - Explained
 
 OpenId Connect wants to be a simplified mechanism for modern web application
 authentication. But like most identity management schemes in software there are
